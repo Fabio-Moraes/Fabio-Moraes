@@ -2,6 +2,7 @@
 <h1 align="center">
   Hello, World!
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
+  <img src="./assets/cat-notebook.gif" width="120" alt="Cat coding animation" />
 </h1>
 
 <!-- About Me -->
