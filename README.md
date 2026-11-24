@@ -4,7 +4,7 @@
 </h1>
 
 <!-- About Me -->
-## `> sobre_mim.ts`
+## `> about_me.ts`
 
 Desenvolvo aplicações Full Stack, atuando no frontend, backend e banco de dados. Antes de propor uma solução, busco entender o problema a fundo, priorizando não só o funcionamento, mas também a organização, a manutenção e a escalabilidade do projeto.
 
@@ -20,7 +20,8 @@ const fabio = {
 };
 ```
 
-## Tecnologias
+<!-- Tech Stack -->
+## `> tech_stack`
 
 <div align="center">
 
@@ -32,7 +33,8 @@ const fabio = {
 
 </div>
 
-## Projetos em destaque
+<!-- Featured Projects -->
+## `> featured_projects`
 
 <div align="center">
 
@@ -51,7 +53,8 @@ const fabio = {
 
 </div>
 
-## GitHub em números
+<!-- GitHub Stats -->
+## `> github_stats`
 
 <div align="center">
 
