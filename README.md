@@ -1,7 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, sou Fabio Moraes</h1>
 
----
-
 ## Sobre mim
 
 Desenvolvo aplicações Full Stack, atuando no frontend, backend e banco de dados. Antes de propor uma solução, busco entender o problema a fundo, priorizando não só o funcionamento, mas também a organização, a manutenção e a escalabilidade do projeto.
