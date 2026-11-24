@@ -1,3 +1,55 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="100%"
+  height="120"
+  viewBox="0 0 800 120"
+  role="img"
+  aria-label="Hello, World!"
+>
+  <defs>
+    <linearGradient id="header-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#164e63"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+      <animate
+        attributeName="x1"
+        values="0%;100%;0%"
+        dur="10s"
+        repeatCount="indefinite"
+      />
+    </linearGradient>
+  </defs>
+
+  <rect
+    width="800"
+    height="120"
+    rx="12"
+    fill="url(#header-gradient)"
+    stroke="#334155"
+  />
+
+  <foreignObject x="0" y="0" width="800" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+         style="
+           height: 100%;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           gap: 10px;
+           color: #e2e8f0;
+           font-family: 'JetBrains Mono', 'Fira Code', monospace;
+           font-size: 28px;
+           font-weight: bold;
+           text-shadow: 0 0 12px rgba(34, 211, 238, 0.3);
+         ">
+      Hello, World!
+      <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
+           width="35" />
+      <img src="https://raw.githubusercontent.com/Fabio-Moraes/Fabio-Moraes/refs/heads/main/assets/cat-notebook.gif"
+           width="45" />
+    </div>
+  </foreignObject>
+</svg>
 <!-- Header -->
 <h1 align="center" class="header-title">
   Hello, World!
