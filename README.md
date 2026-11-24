@@ -18,13 +18,26 @@ const fabio = {
     education: "B.Sc. in Software Engineering"
   },
   languages: ["TypeScript", "JavaScript", "Python", "SQL", "Bash"],
-  technologies: {
+    technologies: {
     frontend: ["React", "Next.js", "Vanilla JavaScript"],
     backend: ["Node.js", "Express"],
-    mobile: ["Expo", "PWA"],
-    desktop: ["Electron", "CLI Tools"],
+    mobile: ["Expo"],
+    desktop: ["Electron"],
+    applicationTypes: ["PWA", "CLI"],
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-    tools: ["Docker", "Git", "VS Code", "Figma", "Obsidian"]
+    infrastructure: ["Docker", "PM2", "TrueNAS", "AWS", "Supabase"],
+    deployment: ["Vercel", "Render"],
+    tools: ["Git", "VS Code", "Figma", "Obsidian"],
+    operatingSystems: ["Linux"]
+  },
+  currentlyStudying: {
+    status: "In Progress",
+
+    virtualization: ["Proxmox"],
+    orchestration: ["Kubernetes"],
+    infrastructureAsCode: ["Terraform"],
+    observability: ["OpenTelemetry"],
+    networking: ["Nginx"]
   },
   interests: [
     "Software Architecture",
