@@ -1,13 +1,5 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:09090b,45:172554,100:0891b2&text=Fabio%20Moraes&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=16&animation=fadeIn" alt="Fabio Moraes — Full Stack Developer" />
-
-<br />
-
-<br /><br />
-
-
-</div>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, sou Fabio Moraes</h1>
+<h3 align="center">git commit -m "Hello, I'm a Software Developer at Amdocs"</h3>
 
 ---
 
