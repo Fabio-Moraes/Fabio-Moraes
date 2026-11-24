@@ -3,7 +3,8 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 
-## Sobre mim
+<!-- About Me -->
+## `> sobre_mim.ts`
 
 Desenvolvo aplicações Full Stack, atuando no frontend, backend e banco de dados. Antes de propor uma solução, busco entender o problema a fundo, priorizando não só o funcionamento, mas também a organização, a manutenção e a escalabilidade do projeto.
 
