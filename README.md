@@ -21,9 +21,9 @@ Foco em arquitetura de software, integração entre serviços e aplicações em 
 const fabio = {
   role: "Full Stack Developer",
   education: "B.Sc. in Software Engineering",
-  stack: ["Frontend", "Backend", "Databases"],
-  focus: ["Software Architecture", "APIs", "Real-time", "Security"],
-  motto: "Um commit de cada vez."
+  stack: ["Frontend", "Backend", "Mobile", "Databases"],
+  focus: ["Software Architecture", "APIs", "Real-time"],
+  principles: ["Clean Code", "Security by Design", "Scalability"]
 };
 ```
 
