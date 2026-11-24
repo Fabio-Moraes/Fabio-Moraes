@@ -60,9 +60,13 @@ const fabio = {
 <!-- Contribution Snake -->
 ## `> contributions`
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabio-Moraes/Fabio-Moraes/refs/heads/main/assets/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabio-Moraes/Fabio-Moraes/refs/heads/main/assets/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Fabio-Moraes/Fabio-Moraes/refs/heads/main/assets/github-snake-dark.svg" width="100%">
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Fabio-Moraes/Fabio-Moraes/output/snake.svg"
+    alt="Animação da cobrinha comendo as contribuições do GitHub"
+    width="100%"
+  />
+</div>
 
 <br>
 
