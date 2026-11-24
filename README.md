@@ -13,11 +13,35 @@ Foco em arquitetura de software, integração entre serviços e aplicações em 
 
 ```ts
 const fabio = {
-  role: "Full Stack Developer",
-  education: "B.Sc. in Software Engineering",
-  stack: ["Frontend", "Backend", "Mobile", "Databases"],
-  focus: ["Software Architecture", "APIs", "Real-time"],
-  principles: ["Clean Code", "Security by Design", "Scalability"]
+  profile: {
+    role: "Full Stack Developer",
+    education: "B.Sc. in Software Engineering"
+  },
+
+  languages: ["TypeScript", "JavaScript", "Python", "Bash"],
+
+  technologies: {
+    frontend: ["React", "Next.js", "Vanilla JavaScript"],
+    backend: ["Node.js", "Express"],
+    mobile: ["Expo", "PWA"],
+    desktop: ["Electron", "CLI Tools"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+    tools: ["Docker", "Git", "VS Code", "Figma", "Obsidian"]
+  },
+
+  interests: [
+    "Software Architecture",
+    "API Development",
+    "Service Integration",
+    "Real-time Systems"
+  ],
+
+  engineering: [
+    "Clean Code",
+    "Security by Design",
+    "Maintainability",
+    "Scalability"
+  ]
 };
 ```
 
