@@ -51,6 +51,9 @@ const fabio = {
 <a href="https://github.com/Fabio-Moraes/exagestor-websocket-backend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Moraes&repo=exagestor-websocket-backend&theme=transparent&hide_border=true&show_owner=true" alt="exagestor-websocket-backend" />
 </a>
+<a href="https://github.com/Fabio-Moraes/game-fps-joystick">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Moraes&repo=game-fps-joystick&theme=transparent&hide_border=true&show_owner=true" alt="exagestor-websocket-backend" />
+</a>
 
 </div>
 
