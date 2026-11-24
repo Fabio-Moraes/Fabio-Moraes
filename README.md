@@ -19,7 +19,7 @@ const fabio = {
   },
   languages: ["TypeScript", "JavaScript", "Python", "SQL", "Bash"],
   technologies: {
-    frontend: ["React", "Next.js", "Vanilla JavaScript"],
+    frontend: ["React", "Next.js", "Vanilla JS"],
     backend: ["Node.js", "Express"],
     mobile: ["Expo", "PWA"],
     desktop: ["Electron", "CLI Applications"],
