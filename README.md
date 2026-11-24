@@ -1,4 +1,7 @@
-<h1 align="center">E aí! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Sou Fabio Moraes</h1>
+<h1 align="center">
+  Olá, eu sou Fabio Moraes
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+</h1>
 
 ## Sobre mim
 
