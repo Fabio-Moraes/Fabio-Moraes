@@ -23,7 +23,6 @@ const fabio = {
   education: "B.Sc. in Software Engineering",
   stack: ["Frontend", "Backend", "Databases"],
   focus: ["Software Architecture", "APIs", "Real-time", "Security"],
-  approach: "Understand the problem first, then build",
   motto: "Um commit de cada vez."
 };
 ```
