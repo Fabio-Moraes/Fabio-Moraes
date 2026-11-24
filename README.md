@@ -13,9 +13,8 @@
 
 ## Sobre mim
 
-Gosto de ir além de fazer código funcionar. Quero entender o que existe por trás de cada solução, explorar possibilidades e transformar ideias em projetos reais. Para mim, programar é construir, questionar e nunca parar de aprender.
-
-> A curiosidade nos leva a questionar, a criatividade nos permite imaginar e o código nos dá meios para construir.
+Desenvolvo aplicações Full Stack, atuando no frontend, backend e banco de dados. Antes de propor uma solução, busco entender o problema a fundo, priorizando não só o funcionamento, mas também a organização, a manutenção e a escalabilidade do projeto.
+Foco em arquitetura de software, integração entre serviços e aplicações em tempo real, guiando meu trabalho por código bem estruturado, boas práticas de segurança e decisões técnicas conscientes.
 
 ```ts
 const fabio = {
