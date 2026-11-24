@@ -17,9 +17,7 @@ const fabio = {
     role: "Full Stack Developer",
     education: "B.Sc. in Software Engineering"
   },
-
-  languages: ["TypeScript", "JavaScript", "Python", "Bash"],
-
+  languages: ["TypeScript", "JavaScript", "Python", "SQL", "Bash"],
   technologies: {
     frontend: ["React", "Next.js", "Vanilla JavaScript"],
     backend: ["Node.js", "Express"],
@@ -28,14 +26,12 @@ const fabio = {
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
     tools: ["Docker", "Git", "VS Code", "Figma", "Obsidian"]
   },
-
   interests: [
     "Software Architecture",
     "API Development",
     "Service Integration",
     "Real-time Systems"
   ],
-
   engineering: [
     "Clean Code",
     "Security by Design",
