@@ -1,5 +1,4 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, sou Fabio Moraes</h1>
-<h3 align="center">git commit -m "Hello, I'm a Software Developer at Amdocs"</h3>
 
 ---
 
