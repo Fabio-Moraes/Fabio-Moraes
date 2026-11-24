@@ -14,6 +14,7 @@
 ## Sobre mim
 
 Desenvolvo aplicações Full Stack, atuando no frontend, backend e banco de dados. Antes de propor uma solução, busco entender o problema a fundo, priorizando não só o funcionamento, mas também a organização, a manutenção e a escalabilidade do projeto.
+
 Foco em arquitetura de software, integração entre serviços e aplicações em tempo real, guiando meu trabalho por código bem estruturado, boas práticas de segurança e decisões técnicas conscientes.
 
 ```ts
