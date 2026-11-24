@@ -1,9 +1,43 @@
 <!-- Header -->
-<h1 align="center">
+<h1 align="center" class="header-title">
   Hello, World!
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
-  <img src="./assets/cat-notebook.gif" width="35" alt="Cat coding animation" />
+  <img src="https://raw.githubusercontent.com/Fabio-Moraes/Fabio-Moraes/refs/heads/main/assets/cat-notebook.gif" width="45"/>
 </h1>
+
+<style>
+  .header-title {
+    background: linear-gradient(
+      120deg,
+      #0f172a,
+      #164e63,
+      #0f172a
+    );
+    background-size: 300% 300%;
+    animation: code-gradient 10s ease infinite;
+
+    padding: 24px;
+    border-radius: 12px;
+    border: 1px solid #334155;
+
+    color: #e2e8f0;
+    font-family: "JetBrains Mono", "Fira Code", monospace;
+    text-shadow: 0 0 12px rgba(34, 211, 238, 0.3);
+  }
+
+  @keyframes code-gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+</style>
+
 
 <!-- About Me -->
 <h3><code>&gt; about_me.ts</code></h3>
