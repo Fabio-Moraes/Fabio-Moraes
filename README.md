@@ -20,8 +20,10 @@ Foco em arquitetura de software, integração entre serviços e aplicações em 
 ```ts
 const fabio = {
   role: "Full Stack Developer",
-  focus: ["Frontend", "Backend", "APIs", "Real-time applications"],
-  approach: "Learn by building",
+  education: "B.Sc. in Software Engineering",
+  stack: ["Frontend", "Backend", "Databases"],
+  focus: ["Software Architecture", "APIs", "Real-time", "Security"],
+  approach: "Understand the problem first, then build",
   motto: "Um commit de cada vez."
 };
 ```
