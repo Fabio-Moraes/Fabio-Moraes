@@ -1,3 +1,4 @@
+<!-- Header -->
 <h1 align="center">
   Olá, eu sou Fabio Moraes
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
@@ -5,7 +6,6 @@
 
 <!-- About Me -->
 ## `> about_me.ts`
-
 Desenvolvo aplicações Full Stack, atuando no frontend, backend e banco de dados. Antes de propor uma solução, busco entender o problema a fundo, priorizando não só o funcionamento, mas também a organização, a manutenção e a escalabilidade do projeto.
 
 Foco em arquitetura de software, integração entre serviços e aplicações em tempo real, guiando meu trabalho por código bem estruturado, boas práticas de segurança e decisões técnicas conscientes.
@@ -22,7 +22,6 @@ const fabio = {
 
 <!-- Tech Stack -->
 ## `> tech_stack`
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&theme=dark&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js e Express" />
@@ -35,7 +34,6 @@ const fabio = {
 
 <!-- Featured Projects -->
 ## `> featured_projects`
-
 <div align="center">
 
 <a href="https://github.com/Fabio-Moraes/exagestor-nextjs-app">
@@ -55,7 +53,6 @@ const fabio = {
 
 <!-- GitHub Stats -->
 ## `> github_stats`
-
 <div align="center">
 
 <a href="https://github.com/Fabio-Moraes">
