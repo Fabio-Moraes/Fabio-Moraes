@@ -57,6 +57,17 @@ const fabio = {
 
 </div>
 
+<!-- Contribution Snake -->
+## `> contributions`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabio-Moraes/Fabio-Moraes/refs/heads/main/assets/ithub-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Fabio-Moraes/Fabio-Moraes/refs/heads/main/assets/ithub-snake-dark.svg" width="100%">
+</picture>
+
+<br>
+
 <!-- GitHub Stats -->
 <h3><code>&gt; github_stats</code></h3>
 
