@@ -59,11 +59,11 @@ const fabio = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&theme=dark&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js e Express" />
+<img src="https://raw.githubusercontent.com/Fabio-Moraes/Fabio-Moraes/refs/heads/main/assets/tech-stack-01.svg" />
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,redis,postgres&theme=dark&perline=7" alt="Git, GitHub, Linux, VS Code, Docker, Redis e PostgreSQL" />
+<img src="https://raw.githubusercontent.com/Fabio-Moraes/Fabio-Moraes/refs/heads/main/assets/tech-stack-02.svg" />
 
 </div>
 
